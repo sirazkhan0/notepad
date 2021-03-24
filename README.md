@@ -1,2 +1,2 @@
 # notepad
-notepad using by python
+python gui notepad
